@@ -1,0 +1,100 @@
+[    
+    {
+        "hash256": "CAPTURE-EVERYTHING!!!",
+        "name": "headertest",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/headers.php",
+	"certhash256": null	
+    },
+    {
+        "hash256": "3777bcfcbb589c12e3dfde18f13651bfa29af4d043b51408a992141d32370582",
+        "name": "plain-html",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/mypage.html",
+	"certhash256": null
+    },
+    {
+        "hash256": "902bb2099ed7952fdfaa16b16618eb73362dc4da193eae142eba1e6afae85617",
+        "name": "plain-css",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/css/main.css",
+	"certhash256": null
+    },
+    {
+        "hash256": "c83d38bc0ce948c049912d2e955fe50a7bdacd5c84eb2e4821e6e32726608f27",
+        "name": "batch-script",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/my.bat",
+	"certhash256": null	
+    },
+    {
+        "hash256": "b255b1881a396f0de36e2d0459b433dc0e96d2f1e082edc09d4f07bd8c692b28",
+        "name": "sh-script",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/jpg2png.sh",
+	"certhash256": null	
+    },
+    {
+        "hash256": "30e14955ebf1352266dc2ff8067e68104607e750abb9d3b36582b8af909fcb58",
+        "name": "zeros",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/zeroes.txt",
+	"certhash256": null	
+    },
+    {
+        "hash256": "326d8261cfc0c447e18c4f4a4f5508ab45bb7b1f409387c1fb56d11abfd3b58e",
+        "name": "badssl-revoked",
+        "proto": "https",
+        "url": "https://revoked.badssl.com/",
+	"certhash256": "2e0f66a9f9e764c33008482058fe0d92fc0ec0b122fbe994ed7bf6463668cdd4"
+    },
+    {
+        "hash256": "5c8e5861161198e239c33ac430579bf3d715ecea159e996dc29697594eda3b45",
+        "name": "badssl-selfsigned",
+        "proto": "https",
+        "url": "https://self-signed.badssl.com/",
+	"certhash256": "28c9e8baa603ee94002ecacd37c15091dca6e1ac8ed429e311897c6c722034b0"
+    },
+    {
+        "hash256": "2385ea52140f816134bbd468ec1e76c9b59dcc952efbc42b9a04fb89f57b51b2",
+        "name": "seclab-photo",
+        "proto": "https",
+        "url": "https://security.cs.georgetown.edu/assets/gu-gate.jpg",
+	"certhash256": "4b79148546de125565377be18abe93f352f6d5887a7c88df29e39603e060f95e"
+    },
+    {
+        "hash256": "8be4a9b448edd1a88e0333f83ade566237367640983984aaa62bcdf861bac075",
+        "name": "winzip",
+        "proto": "http",
+        "url": "http://download.winzip.com/gl/nkln/winzip22_downwz.exe",
+	"certhash256": null
+    },
+    {
+        "hash256": "13c207fc8bbc5596200d1af36df7ea8f3bf81748f80105d242c2bad37a226927",
+        "name": "words-zipped",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/words.zip",
+	"certhash256": null	
+    },
+    {
+     	"hash256": "ead19c3cef8798d6d557cc1349c50721de08014ed811992272cf8927cab68468",
+        "name": "simple-flash",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/simpleflash.swf",
+        "certhash256": null
+    },
+    {
+     	"hash256": "d4e35cecd5389c73cd7796085b8096804133504fa0cbc55b32e6b567ead738da",
+        "name": "maxmind-jar",
+        "proto": "http",
+        "url": "http://spider.cs-georgetown.net/maxmind-db-1.2.2.jar",
+        "certhash256": null
+    },
+    {
+     	"hash256": "e6546c19bb85bba9e8df14f23ddb012bc4b79f8e05ce4cc5506900e45e7c3ea8",
+        "name": "security-https",
+        "proto": "https",
+        "url": "https://security.cs.georgetown.edu/index.html",
+	"certhash256": "4b79148546de125565377be18abe93f352f6d5887a7c88df29e39603e060f95e"
+    }
+]
