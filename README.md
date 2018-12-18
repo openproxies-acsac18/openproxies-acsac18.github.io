@@ -7,13 +7,13 @@ We provide a broad study that examines the availability, success rates, diversit
 ## Paper
 
 **An Extensive Evaluation of the Internet's Open Proxies**  
-_Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC 2018)_  
-by Akshaya Mani, [Tavish Vaidya](https://security.cs.georgetown.edu/~tavish/), [David Dworken](https://daviddworken.com/), and [Micah Sherr](https://security.cs.georgetown.edu/~msherr/)  
-\[[Full paper available here](https://security.cs.georgetown.edu/~msherr/papers/openproxies.pdf)\]  
+_Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC 2018)_
+Akshaya Mani, [Tavish Vaidya](https://security.cs.georgetown.edu/~tavish/), [David Dworken](https://daviddworken.com/), and [Micah Sherr](https://security.cs.georgetown.edu/~msherr/)
+Full Text: [available here](https://security.cs.georgetown.edu/~msherr/papers/openproxies.pdf)
 
 ## Code
 
-This code fetches a list of files from numerous open proxies and every available Tor exit relay. For more details about the list of files retrieved, refer Section 4 in [paper](##paper).
+This code fetches a list of files from numerous open proxies and every available Tor exit relay. For more details about the list of files retrieved, refer Section 4 in paper.
 
 The open proxies module first populates a list of advertised proxies from a number of proxy aggregator sites and augments this list with the results of running [ProxyBroker](https://github.com/constverum/ProxyBroker), an open source tool for finding open proxies. It then attempts to connect to every proxy in this list and, if successful, classifies the proxy as a HTTP, CONNECT, or SOCKS proxy. Finally, it requests several files (URLs) from the set of proxies that were successfully classified.
 
