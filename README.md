@@ -8,8 +8,8 @@ We provide a broad study that examines the availability, success rates, diversit
 
 **An Extensive Evaluation of the Internet's Open Proxies**  
 _Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC 2018)_
-Akshaya Mani, [Tavish Vaidya](https://security.cs.georgetown.edu/~tavish/), [David Dworken](https://daviddworken.com/), and [Micah Sherr](https://security.cs.georgetown.edu/~msherr/)
-Full Text: [available here](https://security.cs.georgetown.edu/~msherr/papers/openproxies.pdf)
+\Akshaya Mani, [Tavish Vaidya](https://security.cs.georgetown.edu/~tavish/), [David Dworken](https://daviddworken.com/), and [Micah Sherr](https://security.cs.georgetown.edu/~msherr/)
+\Full Text: [available here](https://security.cs.georgetown.edu/~msherr/papers/openproxies.pdf)
 
 ## Code
 
