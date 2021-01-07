@@ -23,7 +23,7 @@ ipython-genutils==0.2.0
 jmespath==0.9.3
 jsonschema==2.6.0
 jupyter-core==4.4.0
-lxml==4.2.1
+lxml==4.6.2
 mysql-connector==2.1.6
 mysql-connector-python-rf==2.2.2
 nbformat==4.4.0
