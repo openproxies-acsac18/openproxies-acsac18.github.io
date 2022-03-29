@@ -27,7 +27,7 @@ lxml==4.2.1
 mysql-connector==2.1.6
 mysql-connector-python-rf==2.2.2
 nbformat==4.4.0
-paramiko==2.4.1
+paramiko==2.10.1
 plotly==2.6.0
 pyasn1==0.4.2
 pycparser==2.18
